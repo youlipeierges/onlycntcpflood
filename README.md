@@ -15,4 +15,4 @@
 `python tcp.py`  
 
 python安装指令依赖:  
-`pip install bs4`  
+`pip install requests`  
